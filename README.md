@@ -5,7 +5,7 @@ ECE281_CE2
 # screenshot
 ![Capture](Capture.JPG)
 
-https://github.com/suhsungwoo/ECE281_CE2/tree/master/documents/c3c/semester%202/ECE%20281/CE2
+https://github.com/suhsungwoo/Computer_engineering2/blob/master/documents/c3c/semester%202/ECE%20281/CE2/Capture.JPG
 
 
 #VHD files
